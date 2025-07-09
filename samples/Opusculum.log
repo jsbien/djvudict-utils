@@ -1,0 +1,6 @@
+jsbien@JSBbookworm:~/work/Trufanov/minidjvu-mod/Opusculum$ time ../djvudict Opusculum_scanOCR.djvu Opusculum_dict/
+
+real	0m2.447s
+user	0m1.355s
+sys	0m1.086s
+jsbien@JSBbookworm:~/work/Trufanov/minidjvu-mod/Opusculum$ 
