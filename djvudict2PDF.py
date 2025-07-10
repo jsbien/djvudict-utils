@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# virtual environment may be needed !!!
+# to be called in the directory created by djvudict
 
 # Janusz S. Bień 2023
 # licensed under the Creative Commons Zero v1.0 Universal
