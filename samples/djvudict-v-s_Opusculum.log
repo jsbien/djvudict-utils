@@ -1,0 +1,51 @@
+jsbien@JSBbookworm:~/work/Trufanov/minidjvu-mod/Opusculum$ time ../djvudict -v -s Opusculum_scanOCR.djvu Opusculum_dict/
+Bundled DjVu found. DIRM reports format version 1
+Files bundled 44
+Reading page Info: w:1970 h:2968 ver:24 dpi:300
+Reading page Info: w:2032 h:2952 ver:24 dpi:300
+Reading page Info: w:1970 h:2968 ver:24 dpi:300
+Reading page Info: w:2029 h:2953 ver:24 dpi:300
+Reading page Info: w:1972 h:2968 ver:24 dpi:300
+Reading page Info: w:2031 h:2952 ver:24 dpi:300
+Reading page Info: w:1971 h:2968 ver:24 dpi:300
+Reading page Info: w:2032 h:2953 ver:24 dpi:300
+Reading page Info: w:1971 h:2968 ver:24 dpi:300
+Reading page Info: w:2032 h:2952 ver:24 dpi:300
+Reading page Info: w:1971 h:2967 ver:24 dpi:300
+Reading page Info: w:2031 h:2954 ver:24 dpi:300
+Reading page Info: w:1971 h:2968 ver:24 dpi:300
+Reading page Info: w:2030 h:2953 ver:24 dpi:300
+Reading page Info: w:1972 h:2967 ver:24 dpi:300
+Reading page Info: w:2029 h:2954 ver:24 dpi:300
+Reading page Info: w:1972 h:2967 ver:24 dpi:300
+Reading page Info: w:2022 h:2955 ver:24 dpi:300
+Reading page Info: w:1977 h:2967 ver:24 dpi:300
+Reading page Info: w:2025 h:2954 ver:24 dpi:300
+Reading page Info: w:1975 h:2966 ver:24 dpi:300
+Reading page Info: w:2025 h:2955 ver:24 dpi:300
+Reading page Info: w:1975 h:2967 ver:24 dpi:300
+Reading page Info: w:2020 h:2955 ver:24 dpi:300
+Reading page Info: w:1979 h:2964 ver:24 dpi:300
+Reading page Info: w:2016 h:2955 ver:24 dpi:300
+Reading page Info: w:1983 h:2964 ver:24 dpi:300
+Reading page Info: w:2020 h:2955 ver:24 dpi:300
+Reading page Info: w:1977 h:2964 ver:24 dpi:300
+Reading page Info: w:2021 h:2954 ver:24 dpi:300
+Reading page Info: w:1977 h:2966 ver:24 dpi:300
+Reading page Info: w:2021 h:2954 ver:24 dpi:300
+Reading page Info: w:1978 h:2964 ver:24 dpi:300
+Reading page Info: w:2021 h:2955 ver:24 dpi:300
+Reading page Info: w:1977 h:2964 ver:24 dpi:300
+Reading page Info: w:2013 h:2957 ver:24 dpi:300
+Reading page Info: w:1982 h:2963 ver:24 dpi:300
+Reading page Info: w:2009 h:2955 ver:24 dpi:300
+Reading page Info: w:1986 h:2961 ver:24 dpi:300
+Reading page Info: w:2010 h:2959 ver:24 dpi:300
+Reading page Info: w:1981 h:2959 ver:24 dpi:300
+Reading page Info: w:2082 h:2987 ver:24 dpi:300
+Reading page Info: w:2097 h:2992 ver:24 dpi:300
+
+real	0m4.580s
+user	0m3.051s
+sys	0m1.528s
+jsbien@JSBbookworm:~/work/Trufanov/minidjvu-mod/Opusculum$ 
